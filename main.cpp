@@ -86,7 +86,7 @@ using namespace std;
 //    int list[7];
 //    int sum = 0;
 //    int day = 0;
-//    for (int i = 1;i < 8;i++) 
+//    for (int i = 0;i < 7;i++) 
 //    {
 //      cout << "Введите расходы в $ за " << i << " день недели:\n";
 //      cin >> list[i];
